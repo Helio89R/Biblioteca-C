@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1769717602 source:d:\programaçao\aed\prova2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"heder.h"
+
+1769725399 source:d:\programaçao\aed\prova2\sours.c
+	<stdio.h>
+	<stdlib.h>
+	"heder.h"
+
+1769717501 d:\programaçao\aed\prova2\heder.h
+
